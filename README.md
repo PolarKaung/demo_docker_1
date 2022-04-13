@@ -13,3 +13,5 @@ After you have installed them, run 'mongo-docker-compose.yaml' file with this co
 To shut down everything, run without the double quotes in the directory where the yaml file exists:
 
 "docker-compose -f mongo-docker-compose.yaml down"
+
+You can access the app at 'http://localhost:3000/"
