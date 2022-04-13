@@ -19,4 +19,4 @@ services:
   my-app:
     ports:
       - 3000:3000
-    image: polarkaung1999/my-app:1.0
+    image: polarkaung1999/my-app:1.0-ec2
